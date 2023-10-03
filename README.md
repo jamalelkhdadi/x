@@ -1,3 +1,7 @@
+
+https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.20.0-gcc-win64.zip
+
+
 https://xmrig.com/download
 
 
